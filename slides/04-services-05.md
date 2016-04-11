@@ -1,0 +1,22 @@
+### Servicios
+#### Factory I
+
+```javascript
+.factory("taskList", function() {
+
+    var tasks = [];
+
+    var taskList = {
+        getList: function(){
+            return tasks;
+        },
+        addTask: function(task){
+            tasks.push(task);
+        }
+    }
+
+    return taskList;
+
+})
+```
+[CodePen](http://codepen.io/MikelEiza/pen/jqZwrG)
