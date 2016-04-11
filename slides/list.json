@@ -1,0 +1,54 @@
+[
+    "00-index.md",
+    "01-intro-00.md",
+    [
+        "02-scope-01.md",
+        "02-scope-02.md",
+        "02-scope-03.md",
+        "02-scope-04.md",
+        "02-scope-05.md",
+        "02-scope-06.md",
+        "02-scope-07.md",
+        "02-scope-08.md",
+        "02-scope-09.md",
+        "02-scope-10.md",
+        "02-scope-11.md",
+        "02-scope-12.md",
+        "02-scope-13.md",
+        "02-scope-14.md"
+    ], [
+        "03-directives-01.md",
+        "03-directives-02.md",
+        "03-directives-03.md",
+        "03-directives-04.md",
+        "03-directives-05.md",
+        "03-directives-06.md",
+        "03-directives-07.md"
+    ], [
+        "04-services-01.md",
+        "04-services-02.md",
+        "04-services-03.md",
+        "04-services-04.md",
+        "04-services-05.md",
+        "04-services-06.md",
+        "04-services-07.md",
+        "04-services-08.md"
+    ], [
+        "05-routing-01.md",
+        "05-routing-02.md",
+        "05-routing-03.md",
+        "05-routing-04.md",
+        "05-routing-05.md"
+    ], [
+        "06-http-resource-01.md",
+        "06-http-resource-02.md",
+        "06-http-resource-03.md",
+        "06-http-resource-04.md",
+        "06-http-resource-05.md",
+        "06-http-resource-06.md",
+        "06-http-resource-07.md",
+        "06-http-resource-08.md",
+        "06-http-resource-09.md",
+        "06-http-resource-10.md"
+    ]
+]
